@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f6526153-f519-4a5c-84ea-4f275d687b5f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/EmpleadoAdministrativo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/modelo/RepositorioEmpleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/controlador/EmpleadoControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/controlador/EmpleadoControlador.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +44,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
